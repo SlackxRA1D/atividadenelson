@@ -11,8 +11,7 @@ public class SOP {
         int aleatorio = (int) (Math.random()*19) +1;
         System.out.println("numero:"+ aleatorio);
         }         
-       
-        Jogador j1 = new Jogador();
+       Jogador j1 = new Jogador();
         
         j1.player
         
